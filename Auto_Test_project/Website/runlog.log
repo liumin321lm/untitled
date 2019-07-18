@@ -1,0 +1,305 @@
+2019-04-28 14:32:54,697 run_test.py [line:24] INFO start write report..
+2019-04-28 14:32:58,868 test_2newreader.py [line:26] INFO 新增读者开始......
+2019-04-28 14:33:12,009 test_2newreader.py [line:56] INFO 断言。。。。。。。
+2019-04-28 14:33:14,248 run_test.py [line:31] INFO find latest report
+2019-04-28 14:33:14,252 function.py [line:119] INFO the latest report is 2019-04-28 14_17_41result.html
+2019-04-28 14:33:14,253 function.py [line:121] INFO ./test_report\2019-04-28 14_17_41result.html
+2019-04-28 14:33:14,254 run_test.py [line:33] INFO send email report..
+2019-04-28 14:33:14,639 function.py [line:110] INFO Start send Email........
+2019-04-28 14:33:15,915 function.py [line:113] INFO Send Email end!
+2019-04-28 14:33:15,916 run_test.py [line:35] INFO Test end!
+2019-04-28 14:33:52,126 run_test.py [line:24] INFO start write report..
+2019-04-28 14:33:56,036 test_2newreader.py [line:26] INFO 新增读者开始......
+2019-04-28 14:34:08,990 test_2newreader.py [line:56] INFO 断言。。。。。。。
+2019-04-28 14:34:11,261 run_test.py [line:31] INFO find latest report
+2019-04-28 14:34:11,265 function.py [line:119] INFO the latest report is 2019-04-28 14_32_54result.html
+2019-04-28 14:34:11,266 function.py [line:121] INFO ./test_report\2019-04-28 14_32_54result.html
+2019-04-28 14:34:11,266 run_test.py [line:33] INFO send email report..
+2019-04-28 14:34:11,563 function.py [line:110] INFO Start send Email........
+2019-04-28 14:34:12,875 function.py [line:113] INFO Send Email end!
+2019-04-28 14:34:12,876 run_test.py [line:35] INFO Test end!
+2019-04-29 09:54:06,436 run_test.py [line:24] INFO start write report..
+2019-04-29 09:54:12,338 test_2newreader.py [line:26] INFO 新增读者开始......
+2019-04-29 09:54:28,391 test_2newreader.py [line:56] INFO 断言。。。。。。。
+2019-04-29 09:54:30,990 run_test.py [line:31] INFO find latest report
+2019-04-29 09:54:31,052 function.py [line:119] INFO the latest report is 2019-04-28 14_33_52result.html
+2019-04-29 09:54:31,052 function.py [line:121] INFO ./test_report\2019-04-28 14_33_52result.html
+2019-04-29 09:54:31,052 run_test.py [line:33] INFO send email report..
+2019-04-29 09:54:31,536 function.py [line:110] INFO Start send Email........
+2019-04-29 09:54:32,799 function.py [line:113] INFO Send Email end!
+2019-04-29 09:54:32,799 run_test.py [line:35] INFO Test end!
+2019-04-30 15:14:14,128 run_test.py [line:24] INFO start write report..
+2019-04-30 15:14:18,252 test_1readertype.py [line:15] INFO 新增读者类型......
+2019-04-30 15:14:33,280 test_1readertype.py [line:24] INFO 编辑读者类型......
+2019-04-30 15:14:47,861 test_2newreader.py [line:62] INFO 导入读者......
+2019-04-30 15:15:04,509 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-04-30 15:15:04,509 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-04-30 15:15:04,509 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-04-30 15:15:04,509 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-04-30 15:15:08,207 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-04-30 15:15:08,208 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-04-30 15:15:08,209 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-04-30 15:15:08,209 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-04-30 15:15:20,992 run_test.py [line:31] INFO find latest report
+2019-04-30 15:15:21,001 function.py [line:119] INFO the latest report is 2019-04-30 15_14_14result.html
+2019-04-30 15:15:21,001 function.py [line:121] INFO ./test_report\2019-04-30 15_14_14result.html
+2019-04-30 15:15:21,001 run_test.py [line:33] INFO send email report..
+2019-04-30 15:15:21,519 function.py [line:110] INFO Start send Email........
+2019-04-30 15:15:23,841 function.py [line:113] INFO Send Email end!
+2019-04-30 15:15:23,841 run_test.py [line:35] INFO Test end!
+2019-04-30 15:23:30,355 run_test.py [line:24] INFO start write report..
+2019-04-30 15:23:34,335 test_1readertype.py [line:15] INFO 新增读者类型......
+2019-04-30 15:23:49,607 test_1readertype.py [line:24] INFO 编辑读者类型......
+2019-04-30 15:24:04,458 test_2newreader.py [line:62] INFO 导入读者......
+2019-04-30 15:24:17,125 test_Borrow.py [line:13] INFO test_borrow1_normal is start test ....
+2019-04-30 15:24:22,340 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-04-30 15:24:22,341 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-04-30 15:24:22,341 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-04-30 15:24:22,341 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-04-30 15:24:25,780 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-04-30 15:24:25,780 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-04-30 15:24:25,780 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-04-30 15:24:25,781 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-04-30 15:24:26,212 test_Borrow.py [line:33] INFO test_login1_normal test end!
+2019-04-30 15:24:48,201 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-04-30 15:24:48,201 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-04-30 15:24:48,202 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-04-30 15:24:48,202 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-04-30 15:25:01,679 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-04-30 15:25:01,679 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-04-30 15:25:01,679 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-04-30 15:25:01,679 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-04-30 15:25:04,312 run_test.py [line:31] INFO find latest report
+2019-04-30 15:25:04,313 function.py [line:119] INFO the latest report is 2019-04-30 15_23_30result.html
+2019-04-30 15:25:04,314 function.py [line:121] INFO ./test_report\2019-04-30 15_23_30result.html
+2019-04-30 15:25:04,316 run_test.py [line:33] INFO send email report..
+2019-04-30 15:25:04,646 function.py [line:110] INFO Start send Email........
+2019-04-30 15:25:06,290 function.py [line:113] INFO Send Email end!
+2019-04-30 15:25:06,291 run_test.py [line:35] INFO Test end!
+2019-04-30 15:30:37,526 run_test.py [line:24] INFO start write report..
+2019-04-30 15:30:41,021 test_1readertype.py [line:15] INFO 新增读者类型......
+2019-04-30 15:30:55,721 test_1readertype.py [line:24] INFO 编辑读者类型......
+2019-04-30 15:31:09,791 test_2newreader.py [line:28] INFO 新增读者开始......
+2019-04-30 15:31:21,277 test_2newreader.py [line:58] INFO 断言。。。。。。。
+2019-04-30 15:31:27,581 test_2newreader.py [line:62] INFO 导入读者......
+2019-04-30 15:31:39,307 test_Borrow.py [line:13] INFO test_borrow1_normal is start test ....
+2019-04-30 15:31:44,350 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-04-30 15:31:44,350 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-04-30 15:31:44,350 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-04-30 15:31:44,350 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-04-30 15:31:47,712 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-04-30 15:31:47,712 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-04-30 15:31:47,712 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-04-30 15:31:47,712 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-04-30 15:31:48,128 test_Borrow.py [line:33] INFO test_login1_normal test end!
+2019-04-30 15:32:10,041 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-04-30 15:32:10,042 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-04-30 15:32:10,042 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-04-30 15:32:10,042 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-04-30 15:32:22,982 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-04-30 15:32:22,982 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-04-30 15:32:22,982 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-04-30 15:32:22,982 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-04-30 15:32:25,625 run_test.py [line:31] INFO find latest report
+2019-04-30 15:32:25,626 function.py [line:119] INFO the latest report is 2019-04-30 15_30_37result.html
+2019-04-30 15:32:25,627 function.py [line:121] INFO ./test_report\2019-04-30 15_30_37result.html
+2019-04-30 15:32:25,627 run_test.py [line:33] INFO send email report..
+2019-04-30 15:32:26,049 function.py [line:110] INFO Start send Email........
+2019-04-30 15:32:27,791 function.py [line:113] INFO Send Email end!
+2019-04-30 15:32:27,792 run_test.py [line:35] INFO Test end!
+2019-04-30 17:58:08,499 run_test.py [line:24] INFO start write report..
+2019-04-30 17:58:12,672 test_1readertype.py [line:15] INFO 新增读者类型......
+2019-04-30 17:58:27,872 test_1readertype.py [line:24] INFO 编辑读者类型......
+2019-04-30 17:58:42,322 test_2newreader.py [line:28] INFO 新增读者开始......
+2019-04-30 17:58:53,085 test_2newreader.py [line:58] INFO 断言。。。。。。。
+2019-04-30 17:58:58,956 test_2newreader.py [line:62] INFO 导入读者......
+2019-04-30 17:59:10,255 test_Borrow.py [line:13] INFO test_borrow1_normal is start test ....
+2019-04-30 17:59:15,155 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-04-30 17:59:15,156 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-04-30 17:59:15,158 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-04-30 17:59:15,159 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-04-30 17:59:18,411 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-04-30 17:59:18,411 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-04-30 17:59:18,411 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-04-30 17:59:18,411 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-04-30 17:59:18,862 test_Borrow.py [line:33] INFO test_login1_normal test end!
+2019-04-30 17:59:40,879 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-04-30 17:59:40,879 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-04-30 17:59:40,894 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-04-30 17:59:40,894 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-04-30 17:59:53,575 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-04-30 17:59:53,575 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-04-30 17:59:53,575 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-04-30 17:59:53,575 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-04-30 17:59:56,214 run_test.py [line:31] INFO find latest report
+2019-04-30 17:59:56,214 function.py [line:119] INFO the latest report is 2019-04-30 17_58_08result.html
+2019-04-30 17:59:56,214 function.py [line:121] INFO ./test_report\2019-04-30 17_58_08result.html
+2019-04-30 17:59:56,214 run_test.py [line:33] INFO send email report..
+2019-04-30 17:59:56,651 function.py [line:110] INFO Start send Email........
+2019-04-30 17:59:58,258 function.py [line:113] INFO Send Email end!
+2019-04-30 17:59:58,273 run_test.py [line:35] INFO Test end!
+2019-05-08 15:26:31,341 run_test.py [line:24] INFO start write report..
+2019-05-08 15:26:35,259 test_1readertype.py [line:15] INFO 新增读者类型......
+2019-05-08 15:26:49,844 test_1readertype.py [line:24] INFO 编辑读者类型......
+2019-05-08 15:27:04,355 test_2newreader.py [line:28] INFO 新增读者开始......
+2019-05-08 15:27:15,303 test_2newreader.py [line:58] INFO 断言。。。。。。。
+2019-05-08 15:27:21,866 test_2newreader.py [line:62] INFO 导入读者......
+2019-05-08 15:27:33,179 test_Borrow.py [line:13] INFO test_borrow1_normal is start test ....
+2019-05-08 15:27:38,099 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-05-08 15:27:38,099 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-05-08 15:27:38,100 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-05-08 15:27:38,100 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-05-08 15:27:41,467 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-05-08 15:27:41,467 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-05-08 15:27:41,467 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-05-08 15:27:41,467 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-05-08 15:27:41,897 test_Borrow.py [line:33] INFO test_login1_normal test end!
+2019-05-08 15:28:03,851 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-05-08 15:28:03,851 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-05-08 15:28:03,851 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-05-08 15:28:03,851 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-05-08 15:28:16,138 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-05-08 15:28:16,138 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-05-08 15:28:16,138 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-05-08 15:28:16,138 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-05-08 15:28:18,817 run_test.py [line:31] INFO find latest report
+2019-05-08 15:28:18,819 function.py [line:119] INFO the latest report is 2019-05-08 15_26_31result.html
+2019-05-08 15:28:18,819 function.py [line:121] INFO ./test_report\2019-05-08 15_26_31result.html
+2019-05-08 15:28:18,819 run_test.py [line:33] INFO send email report..
+2019-05-08 15:28:19,248 function.py [line:110] INFO Start send Email........
+2019-05-08 15:28:21,580 function.py [line:113] INFO Send Email end!
+2019-05-08 15:28:21,580 run_test.py [line:35] INFO Test end!
+2019-05-08 15:35:58,501 run_test.py [line:24] INFO start write report..
+2019-05-08 15:36:03,089 test_1readertype.py [line:15] INFO 新增读者类型......
+2019-05-08 15:36:17,720 test_1readertype.py [line:24] INFO 编辑读者类型......
+2019-05-08 15:36:32,051 test_2newreader.py [line:28] INFO 新增读者开始......
+2019-05-08 15:36:47,472 test_2newreader.py [line:58] INFO 断言。。。。。。。
+2019-05-08 15:36:53,658 test_2newreader.py [line:62] INFO 导入读者......
+2019-05-08 15:37:05,711 test_Borrow.py [line:13] INFO test_borrow1_normal is start test ....
+2019-05-08 15:37:10,504 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-05-08 15:37:10,504 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-05-08 15:37:10,505 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-05-08 15:37:10,505 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-05-08 15:37:13,804 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-05-08 15:37:13,804 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-05-08 15:37:13,804 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-05-08 15:37:13,804 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-05-08 15:37:14,203 test_Borrow.py [line:33] INFO test_login1_normal test end!
+2019-05-08 15:37:36,067 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-05-08 15:37:36,068 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-05-08 15:37:36,068 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-05-08 15:37:36,068 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-05-08 15:37:48,508 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-05-08 15:37:48,508 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-05-08 15:37:48,508 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-05-08 15:37:48,508 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-05-08 15:37:51,218 run_test.py [line:31] INFO find latest report
+2019-05-08 15:37:51,220 function.py [line:119] INFO the latest report is 2019-05-08 15_35_58result.html
+2019-05-08 15:37:51,220 function.py [line:121] INFO ./test_report\2019-05-08 15_35_58result.html
+2019-05-08 15:37:51,220 run_test.py [line:33] INFO send email report..
+2019-05-08 15:37:51,547 function.py [line:110] INFO Start send Email........
+2019-05-08 15:37:53,028 function.py [line:113] INFO Send Email end!
+2019-05-08 15:37:53,029 run_test.py [line:35] INFO Test end!
+2019-05-08 16:03:17,291 run_test.py [line:24] INFO start write report..
+2019-05-08 16:03:21,629 test_1readertype.py [line:15] INFO 新增读者类型......
+2019-05-08 16:03:36,256 test_1readertype.py [line:24] INFO 编辑读者类型......
+2019-05-08 16:03:50,527 test_2newreader.py [line:28] INFO 新增读者开始......
+2019-05-08 16:04:03,493 test_2newreader.py [line:58] INFO 断言。。。。。。。
+2019-05-08 16:04:53,057 run_test.py [line:24] INFO start write report..
+2019-05-11 15:30:11,760 run_test.py [line:24] INFO start write report..
+2019-05-11 15:30:15,419 test_1readertype.py [line:15] INFO 新增读者类型......
+2019-05-11 15:30:29,925 test_1readertype.py [line:24] INFO 编辑读者类型......
+2019-05-11 15:30:44,015 test_2newreader.py [line:28] INFO 新增读者开始......
+2019-05-11 15:30:57,129 test_2newreader.py [line:58] INFO 断言。。。。。。。
+2019-05-11 15:31:03,306 test_2newreader.py [line:62] INFO 导入读者......
+2019-05-11 15:31:15,087 test_Borrow.py [line:13] INFO test_borrow1_normal is start test ....
+2019-05-11 15:31:20,467 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-05-11 15:31:20,468 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-05-11 15:31:20,468 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-05-11 15:31:20,469 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-05-11 15:31:23,914 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-05-11 15:31:23,915 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-05-11 15:31:23,917 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-05-11 15:31:23,918 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-05-11 15:31:24,361 test_Borrow.py [line:33] INFO test_login1_normal test end!
+2019-05-11 15:31:45,934 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-05-11 15:31:45,935 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-05-11 15:31:45,936 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-05-11 15:31:45,937 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-05-11 15:31:58,476 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-05-11 15:31:58,477 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-05-11 15:31:58,477 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-05-11 15:31:58,478 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-05-11 15:32:01,085 run_test.py [line:31] INFO find latest report
+2019-05-11 15:32:01,222 function.py [line:119] INFO the latest report is 2019-05-11 15_30_11result.html
+2019-05-11 15:32:01,223 function.py [line:121] INFO ./test_report\2019-05-11 15_30_11result.html
+2019-05-11 15:32:01,224 run_test.py [line:33] INFO send email report..
+2019-05-11 15:32:01,656 function.py [line:110] INFO Start send Email........
+2019-05-11 15:32:03,076 function.py [line:113] INFO Send Email end!
+2019-05-11 15:32:03,077 run_test.py [line:35] INFO Test end!
+2019-05-24 15:39:46,869 run_test.py [line:24] INFO start write report..
+2019-05-24 15:39:50,891 test_1readertype.py [line:15] INFO 新增读者类型......
+2019-05-24 15:40:04,020 test_1readertype.py [line:24] INFO 编辑读者类型......
+2019-05-24 15:40:15,991 test_2newreader.py [line:28] INFO 新增读者开始......
+2019-05-24 15:40:29,235 test_2newreader.py [line:58] INFO 断言。。。。。。。
+2019-05-24 15:40:35,526 test_2newreader.py [line:62] INFO 导入读者......
+2019-05-24 15:40:47,458 test_Borrow.py [line:13] INFO test_borrow1_normal is start test ....
+2019-05-24 15:40:52,973 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-05-24 15:40:52,974 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-05-24 15:40:52,974 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-05-24 15:40:52,975 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-05-24 15:40:56,244 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-05-24 15:40:56,245 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-05-24 15:40:56,246 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-05-24 15:40:56,247 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-05-24 15:40:56,672 test_Borrow.py [line:33] INFO test_login1_normal test end!
+2019-05-24 15:41:19,340 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-05-24 15:41:19,340 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-05-24 15:41:19,341 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-05-24 15:41:19,342 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-05-24 15:41:32,374 function.py [line:28] INFO D:\py_project\Auto_Test_project\Website\test_case\model
+2019-05-24 15:41:32,375 function.py [line:30] INFO D:\py_project\Auto_Test_project\Website\test_case
+2019-05-24 15:41:32,375 function.py [line:35] INFO D:/py_project/Auto_Test_project/Website/test_case
+2019-05-24 15:41:32,376 function.py [line:37] INFO D:/py_project/Auto_Test_project
+2019-05-24 15:41:34,983 run_test.py [line:31] INFO find latest report
+2019-05-24 15:41:35,033 function.py [line:119] INFO the latest report is 2019-05-24 15_39_46result.html
+2019-05-24 15:41:35,034 function.py [line:121] INFO ./test_report\2019-05-24 15_39_46result.html
+2019-05-24 15:41:35,035 run_test.py [line:33] INFO send email report..
+2019-05-24 15:41:35,449 function.py [line:110] INFO Start send Email........
+2019-05-24 15:41:37,009 function.py [line:113] INFO Send Email end!
+2019-05-24 15:41:37,010 run_test.py [line:35] INFO Test end!
+2019-07-16 10:57:57,117 run_test.py [line:24] INFO start write report..
+2019-07-16 10:58:01,266 test_1readertype.py [line:15] INFO 新增读者类型......
+2019-07-16 10:58:21,982 test_1readertype.py [line:24] INFO 编辑读者类型......
+2019-07-16 10:58:41,965 test_2newreader.py [line:28] INFO 新增读者开始......
+2019-07-18 14:44:56,440 run_test.py [line:24] INFO start write report..
+2019-07-18 14:45:02,124 test_1readertype.py [line:15] INFO 新增读者类型......
+2019-07-18 15:34:58,159 run_test.py [line:24] INFO start write report..
+2019-07-18 15:34:58,161 run_test.py [line:31] INFO find latest report
+2019-07-18 15:34:58,162 function.py [line:119] INFO the latest report is screenshot
+2019-07-18 15:34:58,162 function.py [line:121] INFO ./test_report\screenshot
+2019-07-18 15:34:58,162 run_test.py [line:33] INFO send email report..
+2019-07-18 15:35:24,502 run_test.py [line:24] INFO start write report..
+2019-07-18 15:35:24,503 run_test.py [line:31] INFO find latest report
+2019-07-18 15:35:24,504 function.py [line:119] INFO the latest report is 2019-07-18 15_34_58result.html
+2019-07-18 15:35:24,505 function.py [line:121] INFO ./test_report\2019-07-18 15_34_58result.html
+2019-07-18 15:35:24,505 run_test.py [line:33] INFO send email report..
+2019-07-18 15:35:25,007 function.py [line:110] INFO Start send Email........
+2019-07-18 15:35:27,236 function.py [line:113] INFO Send Email end!
+2019-07-18 15:35:27,236 run_test.py [line:35] INFO Test end!
+2019-07-18 15:37:10,760 run_test.py [line:24] INFO start write report..
+2019-07-18 15:37:10,762 run_test.py [line:31] INFO find latest report
+2019-07-18 15:37:10,763 function.py [line:119] INFO the latest report is 2019-07-18 15_35_24result.html
+2019-07-18 15:37:10,763 function.py [line:121] INFO ./test_report\2019-07-18 15_35_24result.html
+2019-07-18 15:37:10,764 run_test.py [line:33] INFO send email report..
+2019-07-18 15:37:11,137 function.py [line:110] INFO Start send Email........
+2019-07-18 15:37:12,775 function.py [line:113] INFO Send Email end!
+2019-07-18 15:37:12,776 run_test.py [line:35] INFO Test end!
+2019-07-18 15:38:09,105 run_test.py [line:24] INFO start write report..
+2019-07-18 15:38:09,109 run_test.py [line:31] INFO find latest report
+2019-07-18 15:38:09,110 function.py [line:119] INFO the latest report is 2019-07-18 15_37_10result.html
+2019-07-18 15:38:09,111 function.py [line:121] INFO ./test_report\2019-07-18 15_37_10result.html
+2019-07-18 15:38:09,111 run_test.py [line:33] INFO send email report..
+2019-07-18 15:38:09,458 function.py [line:110] INFO Start send Email........
+2019-07-18 15:38:12,155 function.py [line:113] INFO Send Email end!
+2019-07-18 15:38:12,155 run_test.py [line:35] INFO Test end!
