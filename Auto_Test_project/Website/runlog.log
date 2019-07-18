@@ -303,3 +303,50 @@
 2019-07-18 15:38:09,458 function.py [line:110] INFO Start send Email........
 2019-07-18 15:38:12,155 function.py [line:113] INFO Send Email end!
 2019-07-18 15:38:12,155 run_test.py [line:35] INFO Test end!
+2019-07-18 15:49:43,656 run_test.py [line:24] INFO start write report..
+2019-07-18 15:49:43,658 run_test.py [line:31] INFO find latest report
+2019-07-18 15:49:43,659 function.py [line:119] INFO the latest report is 2019-07-18 15_38_09result.html
+2019-07-18 15:49:43,659 function.py [line:121] INFO ./test_report\2019-07-18 15_38_09result.html
+2019-07-18 15:49:43,659 run_test.py [line:33] INFO send email report..
+2019-07-18 15:49:44,112 function.py [line:110] INFO Start send Email........
+2019-07-18 15:49:45,801 function.py [line:113] INFO Send Email end!
+2019-07-18 15:49:45,801 run_test.py [line:35] INFO Test end!
+2019-07-18 16:01:49,097 run_test.py [line:24] INFO start write report..
+2019-07-18 16:01:49,099 run_test.py [line:31] INFO find latest report
+2019-07-18 16:01:49,101 function.py [line:119] INFO the latest report is 2019-07-18 15_49_43result.html
+2019-07-18 16:01:49,101 function.py [line:121] INFO ./test_report\2019-07-18 15_49_43result.html
+2019-07-18 16:01:49,101 run_test.py [line:33] INFO send email report..
+2019-07-18 16:01:49,494 function.py [line:110] INFO Start send Email........
+2019-07-18 16:01:51,233 function.py [line:113] INFO Send Email end!
+2019-07-18 16:01:51,233 run_test.py [line:35] INFO Test end!
+2019-07-18 16:32:32,259 run_test.py [line:24] INFO start write report..
+2019-07-18 16:32:36,774 test_1readertype.py [line:15] INFO 新增读者类型......
+2019-07-18 16:32:49,704 test_1readertype.py [line:24] INFO 编辑读者类型......
+2019-07-18 16:33:02,087 test_2newreader.py [line:28] INFO 新增读者开始......
+2019-07-18 16:33:15,267 test_2newreader.py [line:58] INFO 断言。。。。。。。
+2019-07-18 16:33:21,471 test_2newreader.py [line:62] INFO 导入读者......
+2019-07-18 16:33:33,475 test_Borrow.py [line:13] INFO test_borrow1_normal is start test ....
+2019-07-18 16:33:38,621 function.py [line:28] INFO D:\untitled\Auto_Test_project\Website\test_case\model
+2019-07-18 16:33:38,622 function.py [line:30] INFO D:\untitled\Auto_Test_project\Website\test_case
+2019-07-18 16:33:38,622 function.py [line:35] INFO D:/untitled/Auto_Test_project/Website/test_case
+2019-07-18 16:33:38,622 function.py [line:37] INFO D:/untitled/Auto_Test_project
+2019-07-18 16:33:41,955 function.py [line:28] INFO D:\untitled\Auto_Test_project\Website\test_case\model
+2019-07-18 16:33:41,955 function.py [line:30] INFO D:\untitled\Auto_Test_project\Website\test_case
+2019-07-18 16:33:41,955 function.py [line:35] INFO D:/untitled/Auto_Test_project/Website/test_case
+2019-07-18 16:33:41,956 function.py [line:37] INFO D:/untitled/Auto_Test_project
+2019-07-18 16:33:42,377 test_Borrow.py [line:33] INFO test_login1_normal test end!
+2019-07-18 16:34:04,563 function.py [line:28] INFO D:\untitled\Auto_Test_project\Website\test_case\model
+2019-07-18 16:34:04,563 function.py [line:30] INFO D:\untitled\Auto_Test_project\Website\test_case
+2019-07-18 16:34:04,563 function.py [line:35] INFO D:/untitled/Auto_Test_project/Website/test_case
+2019-07-18 16:34:04,564 function.py [line:37] INFO D:/untitled/Auto_Test_project
+2019-07-18 16:34:17,327 function.py [line:28] INFO D:\untitled\Auto_Test_project\Website\test_case\model
+2019-07-18 16:34:17,327 function.py [line:30] INFO D:\untitled\Auto_Test_project\Website\test_case
+2019-07-18 16:34:17,327 function.py [line:35] INFO D:/untitled/Auto_Test_project/Website/test_case
+2019-07-18 16:34:17,327 function.py [line:37] INFO D:/untitled/Auto_Test_project
+2019-07-18 16:34:21,210 run_test.py [line:31] INFO find latest report
+2019-07-18 16:34:21,212 function.py [line:119] INFO the latest report is 2019-07-18 16_32_32result.html
+2019-07-18 16:34:21,214 function.py [line:121] INFO ./test_report\2019-07-18 16_32_32result.html
+2019-07-18 16:34:21,215 run_test.py [line:33] INFO send email report..
+2019-07-18 16:34:21,677 function.py [line:110] INFO Start send Email........
+2019-07-18 16:34:25,337 function.py [line:113] INFO Send Email end!
+2019-07-18 16:34:25,337 run_test.py [line:35] INFO Test end!
